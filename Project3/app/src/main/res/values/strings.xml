@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Project3</string>
+
+    <string name="a_title">Arav Sarma</string>
+    <string name="course_161_title">Introduction to Computer Science I</string>
+    <string name="course_162_title">Introduction to Computer Science II</string>
+    <string name="course_225_title">Discrete Structures in Computer Science</string>
+    <string name="course_261_title">Data Structures</string>
+    <string name="course_271_title">Computer Architecture and Assembly Language</string>
+    <string name="course_290_title">Web Development</string>
+    <string name="course_325_title">Analysis of Algorithms</string>
+    <string name="course_340_title">Introduction to Databases</string>
+    <string name="course_344_title">Operating Systems I</string>
+    <string name="course_361_title">Software Engineering I</string>
+    <string name="course_362_title">Software Engineering II</string>
+    <string name="course_467_title">Online Capstone Project</string>
+</resources>
